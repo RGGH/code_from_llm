@@ -49,6 +49,7 @@ python main.py
 
 - The generated script is saved as `script.py`.
 - The script is executed, and its output is displayed in the terminal.
+- The 2nd script, main2.py  is an alternative version you can also run..
 
 ## License
 
